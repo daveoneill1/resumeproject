@@ -27,6 +27,15 @@
     background-color: #9b59b6;
 }
 
+.ui-menu-color-github {
+    background-color: #1c4a6c;
+}
+
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
+
+
 .ui-menu-color-contact {
     background-color: #3498db;
 }
@@ -80,6 +89,13 @@ general-sub {
     margin-bottom: 40px;
 
 }
+
+/*----------------map ------------*/
+
+div#map {
+    min-height: 360px;
+}
+
 
 /*----------------heading ------------*/
 header {
