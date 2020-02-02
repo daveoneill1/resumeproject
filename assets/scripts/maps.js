@@ -10,14 +10,14 @@ center: {
 
 var labels = "ABCDEFGHIJKLMONPQRSTUVWXYZ";
             var locations = [{
-                lat: 40.785091,
-                lng: -73.968285
+                lat: 43.7696, 
+                lng: 11.2558
             }, {
-                lat: 41.084045,
-                lng: -73.874256
+                lat: 50.6292,
+                lng: 3.0573
             }, {
-                lat: 40.754932,
-                lng: -73.984016 }
+                lat: 53.3501, 
+                lng: -6.2661 },
                 
                 ];
             var markers = locations.map(function(location, i) {

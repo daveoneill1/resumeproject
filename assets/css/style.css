@@ -112,11 +112,12 @@ header {
 
 .logo 
 {
-    background: url("../images/rosie.jpg");
-    background-position: center;
+    background: url("../images/looney-tunes.png");
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
+
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
      -webkit-transition: all .5s ease-in-out;
@@ -404,11 +405,16 @@ color: #e67e22;
     max-width: 70%;
 }
 
+.margin-bottom {
+    
+    margin-bottom: 20px;
+}
+
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
     color: #fafafa;
-    background-color: #e84610;
+    background-color: 	#228B22;
 }
 
 /* ----------------------------------------Media Queries */
